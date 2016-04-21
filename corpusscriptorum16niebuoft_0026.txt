@@ -1,0 +1,68 @@
+10 CODINI CUROPALATAE
+
+5 ἐπὶ τῆς τραπέζης.
+5 μέγας παππιάς.
+5 ἔπαρχος.
+5 μέγας δρουγγάριος ῑῆς βῖγλης.
+5 μέγας ἑταιριάρχης. 5
+5 μέγας χαρτουλάριος.
+5 λογοθέτης τοῦ δρόμου.
+5 πρωτασηκρῆτις.
+5 ἐπὶ τοῦ στρατοῦ.
+5 μυστικός. 10
+5 ὂομέστικος τῶν σχολῶν.
+5 μέγας ὄρουγγάριος τοῦ στόλου.
+ὅ πριμμικήριος τῆς αὐλῆς.
+5 πρωτοσπαθάριος.
+P 19 5 μέγας ἅρχων. 15
+5 ,τατᾶς αὐλῆς.
+5 μέγας τζαούσιος.
+5 πραίτωρ τοῦ δήμου.
+ὅ λογοθέτης τῶν οἷκειακῶν.
+5 μέγας λογαριαστής. 20
+5 πρωτοκυνηγός.
+
+1 ο“ ἐπὶ τῆς τραπέζης om Β 8 ὕπαρχος Β 11 δομέστικος]
+μυστικάς Ρ 16 τὰ τῆς αὐλῆς AB
+
+Praefectus mensae.
+
+Magnus pappias.
+
+Eparchus.
+
+Magnus drungarius vigiliarum seu excubiarum. *
+, Magnus hetaeriarcha.
+
+Magnus chartularius.
+
+Logotheta publici cursus.
+
+Primus secretarius.
+
+Praefectus exercitus.
+
+Mysticus.
+
+Domesticus scholarum.
+
+Magnus drungarius classis.
+
+Primicerius aulae.
+
+Protospatharius.
+
+Magnus princeps.
+
+Tatas aulae.
+
+Magnus tzausius.
+
+Praetor populi.
+
+Logotheta rerum domesticarum familiarium.
+
+Magnus logariastes.
+
+Primus venatorum.
+
